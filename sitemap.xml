@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fionalucas.github.io/holistichealth/</loc>
+    <loc>https://fionalucas.github.io/holistichealth/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fionalucas.github.io/holistichealth/categories/</loc>
+    <loc>https://fionalucas.github.io/holistichealth/</loc>
     <priority>0</priority>
   </url>
   
