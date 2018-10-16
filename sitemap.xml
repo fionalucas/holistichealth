@@ -3,41 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fionalucas.github.io/holistichealth/blog/more/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fionalucas.github.io/holistichealth/blog/second/</loc>
-    <lastmod>2018-07-25T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fionalucas.github.io/holistichealth/blog/first/</loc>
-    <lastmod>2018-07-24T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fionalucas.github.io/holistichealth/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fionalucas.github.io/holistichealth/blog/</loc>
-    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fionalucas.github.io/holistichealth/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fionalucas.github.io/holistichealth/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://fionalucas.github.io/holistichealth/projects/</loc>
   </url>
   
   <url>
