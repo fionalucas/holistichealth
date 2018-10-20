@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiona Lucas </title>
-    <link>https://fionalucas.github.io/holistichealth/</link>
+    <link>http://fionalucascoaching.com.au/</link>
     <description>Recent content on Fiona Lucas </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fionalucas.github.io/holistichealth/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://fionalucascoaching.com.au/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
