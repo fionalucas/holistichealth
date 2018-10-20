@@ -59,8 +59,13 @@ h6 {
 	width: 200px;
 }
 
+.email {
+	color: #fec503;
+}
+
 .aboutme-picture {
 	margin-top: 20px;
+	transform: rotate(-16deg);
 }
 
 .large-line-height {
@@ -73,7 +78,9 @@ h6 {
    align-items: center; 
 }
 
-
+.justify {
+	text-align: justify;
+}
 
 .price-icon {
 	padding-top: 5px;
@@ -810,7 +817,7 @@ section#contact .form-group input.form-control {
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    height: 200px;
 }
 
 section#contact .form-control:focus {
